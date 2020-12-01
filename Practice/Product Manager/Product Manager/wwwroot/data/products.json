@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Id": "product-01",
+    "Name": "Greenland",
+    "Price": 350000,
+    "Image": "http://image.phimmoizz.net/film/11207/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-02",
+    "Name": "Giải cứu",
+    "Price": 300000,
+    "Image": "http://image.phimmoizz.net/film/11481/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-03",
+    "Name": "Baba Yaga",
+    "Price": 400000,
+    "Image": "http://image.phimmoizz.net/film/10370/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-04",
+    "Name": "The Mutants",
+    "Price": 460000,
+    "Image": "http://image.phimmoizz.net/film/7294/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-05",
+    "Name": "Nocturne",
+    "Price": 4500000,
+    "Image": "http://image.phimmoizz.net/film/11912/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-06",
+    "Name": "More than friends",
+    "Price": 550000,
+    "Image": "http://image.phimmoizz.net/film/11453/poster.medium.jpg"
+
+  }
+]
